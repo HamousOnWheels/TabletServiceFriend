@@ -1,0 +1,12 @@
+SignTool=C:\Program Files (x86)\Microsoft SDKs\ClickOnce\SignTool\signtool.exe
+PFX=X:\TIBI CAR\visual\Tablet Service Friend\Tablet Service Friend\Tablet Service Friend_1_TemporaryKey.pfx
+Password=dnameless1
+TimeStamp=http://timestamp.comodoca.com/authenticode
+TimeStampRFC3161=No
+TimeStampSHA256=No
+ProgramTitle=Tablet Service Friend
+ProgramURL=
+File1=X:\TIBI CAR\visual\Tablet Service Friend\Tablet Service Friend\bin\Release\Tablet Service Friend.exe
+SignatureAppended=No
+SignatureSHA256=Yes
+ResultVerbose=Yes
